@@ -15,7 +15,7 @@ public class KMPAlgorithm {
 
     /**
      *
-     * @param str1 源字符串
+     * @param str1 源字符串=-
      * @param str2 字串
      * @param next 我们的部分匹配表，是字串对应的部分匹配表
      * @return 如果是-1就是没有匹配到，否则返回的是第一个匹配的索引
